@@ -88,7 +88,7 @@ npm install
 npm run dev
 ```
 
-Your app will be available at: [http://localhost:5173]([http://localhost:5173](https://courageous-blini-53d277.netlify.app/)
+Your app will be available at: [https://courageous-blini-53d277.netlify.app/](https://courageous-blini-53d277.netlify.app/)
 
 ---
 
